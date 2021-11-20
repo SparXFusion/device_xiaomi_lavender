@@ -381,7 +381,7 @@ PRODUCT_PACKAGES += \
 
 # AOT Preload
 PRODUCT_DEXPREOPT_SPEED_APPS += \
-    SystemUI
+    WeebSystemUI
 
 # Seccomp policy
 PRODUCT_COPY_FILES += \
