@@ -78,37 +78,37 @@ vendor/firmware/dbmd4_va_fw.bin|ee640f9f4e367d513f5fb7d95c85e226c9f75750
 vendor/firmware/tfa98xx.cnt|f8b5291feaebe7e3d18fda5d8960c313656b4a3a
 vendor/firmware/voice_amodel.bin|f0485f84718886ebcba6f2be0eb92f18240b5115
 
-# Audio - from LA.UM.8.2.r1-06700-sdm660.0
-etc/permissions/audiosphere.xml|3c6d8f14bd99e52a424282fd5d0a5b9b06485dea
-framework/audiosphere.jar|c1679f5aca56f0cb24745b3f7d219acd04833bed
-vendor/lib/libacdb-fts.so|a2f09f2a01c326d6b57b1c0e406c92850ceef439
-vendor/lib/libacdbloader.so|3c294e9ed4ab4640830197f33028b342f9351a0f
-vendor/lib/libacdbrtac.so|98a8a9cf331cc10c755c808da3bf4da5d4de0c2a
-vendor/lib/libadiertac.so|9d6c62200d81e28ccd78aef6ce8e223655f102b6
-vendor/lib/libadm.so|2a275948330d0b50cbbaee644d81ffa6cfb54590
-vendor/lib/libaudcal.so|2c7b95a1c0e43f1c7d8d679f472343776f7bf718
-vendor/lib/libaudioalsa.so|1d8eb7dae06b1cca0cd360a5996bb59a9bd8ba25
-vendor/lib/libaudioparsers.so|d898e3d2cc8177e916052527135258c8d9fc7e89
-vendor/lib/libdrc.so|aa8e8dd2a27803bf8ac36619036e1dc736be540b
-vendor/lib/libqtigef.so|10b64bf536b4edb6c09d047c218cfe4c9a9255f1
-vendor/lib64/libacdb-fts.so|fe3610a7cce613592e90245ce98a23be1763545c
-vendor/lib64/libacdbloader.so|1ca9195a3f00064f3addaf2e9443609d07fd8940
-vendor/lib64/libacdbrtac.so|51d6d796b8d0815b8a7670dfbcd449dd3bb51506
-vendor/lib64/libadiertac.so|8f77a71f76ef3a88d06955c4d6d4d915d62c4c94
-vendor/lib64/libaudcal.so|80ee15046e7a7249a0c9def9bf3f3d94efd3ce6a
-vendor/lib64/libaudioalsa.so|bdf49c709df8a1a7a7e232a6cb1ba6d15af594c7
-vendor/lib64/libaudioparsers.so|ad9394501d467fd264675ead74a4e6bab34eadd5
-vendor/lib64/libqtigef.so|1b7fa4dacefd97f019c342477ff57dc861e70277
+# Audio - from LA.UM.9.2.r1-03500-SDMxx0.0
+system_ext/etc/permissions/audiosphere.xml|015ad7be4921039238bfa3d34d052d752453e49c
+-system_ext/framework/audiosphere.jar|9c28317f12b93a6d881c80a991ff24716fce4a12
+vendor/lib/libacdb-fts.so|63e2c39f16e828b2eeb9ecbbae5071f54511b52a
+vendor/lib/libacdbloader.so|8f753e0e8616654ff2ad8980f2f3204bab83a96f
+vendor/lib/libacdbrtac.so|5011f9aa41add219e8f01df7722d64fe6a24112a
+vendor/lib/libadiertac.so|48557671b8ccfc3e805e72f22def5df7cc76d7f0
+vendor/lib/libadm.so|59f8574635b5b07577d106293a48621008eafd7c
+vendor/lib/libaudcal.so|9b90304072c01aeb96af52ee24ffaa75d7bd15bb
+vendor/lib/libaudioalsa.so|e54da6926b0e284a7a89a6a636003cf562ff53db
+vendor/lib/libaudioparsers.so|9a998d072d1bcfe7ce9ca0a4e7a4a38a66318ee6
+vendor/lib/libdrc.so|95ae02c1c274e9407b992587b8bb0ff39a08f34e
+vendor/lib/libqtigef.so|977cbb704f6b2bae7f4e2f17b8c15146a6cacffb
+vendor/lib64/libacdb-fts.so|686e7fafaf6a07bd72fab37bf59752aae70dfbb5
+vendor/lib64/libacdbloader.so|08e4c39a8467e408336302750c164008654bba6f
+vendor/lib64/libacdbrtac.so|e8476660fbee1fca87a214b9eb3fb81e27a89ef7
+vendor/lib64/libadiertac.so|6afd5ca832dae32c03b14cc413a5f388ed8fa7a7
+vendor/lib64/libaudcal.so|a1fe1d8c87c18885f918ec8d449d7d61c4fd0ebc
+vendor/lib64/libaudioalsa.so|361b3de1f094cc0943add1ef7040ffeadc5dbdcb
+vendor/lib64/libaudioparsers.so|c0c3f1e2eafac1194334fd85dfcdb7e398a2c6c2
+vendor/lib64/libqtigef.so|cdbc8eb095afddd0f990c972cd8c1b2b4e7e9cd7
 
-# Audio FX modules - from LA.UM.8.2.r1-06700-sdm660.0
-vendor/lib/soundfx/libasphere.so|eaa35262337a8401aaecf02997e98e24083f064c
-vendor/lib/soundfx/libqcbassboost.so|21670836de855a24f1b2424a9c4ad7c6cac3afa0
-vendor/lib/soundfx/libqcreverb.so|3a93eecfdec56b2754a6256a75578ed26f5c61ba
-vendor/lib/soundfx/libqcvirt.so|fd081ae5705152d75d577034f8ac1920b0bb9ca7
-vendor/lib64/soundfx/libasphere.so|27154ce2eed6902f36ed8c85324cf61c96c8af02
-vendor/lib64/soundfx/libqcbassboost.so|d729c008d1b8925d60078b2733010708bdfed2c4
-vendor/lib64/soundfx/libqcreverb.so|1dba604109a6f1c41285aa70b88274d5fddbb656
-vendor/lib64/soundfx/libqcvirt.so|7b11552f1100a6b6146865ceba853d331946b913
+# Audio FX modules - from LA.UM.9.2.r1-03500-SDMxx0.0
+vendor/lib/soundfx/libasphere.so|90940fca6f4b84794046513c6c6868eca9470066
+vendor/lib/soundfx/libqcbassboost.so|c1d3b6daf0c210df3470509d1b0855a0bf661de2
+vendor/lib/soundfx/libqcreverb.so|27e1a5af0ab447a9f010b03f0e424049f0a68adc
+vendor/lib/soundfx/libqcvirt.so|ec02ee7b73ecefbb0f5dc769e2533bbd5e0cd768
+vendor/lib64/soundfx/libasphere.so|b9296f601776e631be0f347f8f10d26689103d12
+vendor/lib64/soundfx/libqcbassboost.so|55948517d0606d937b0305d15ef0c32e691248a8
+vendor/lib64/soundfx/libqcreverb.so|7052ad5d878665748a095bad011d0dddddcf2d10
+vendor/lib64/soundfx/libqcvirt.so|0a52ba5a31cf57847a6c8d2abd6da851399b3981
 
 # Audio-ACDB
 vendor/etc/acdbdata/MTP/MTP_Bluetooth_cal.acdb
@@ -1534,14 +1534,14 @@ vendor/lib64/libsdmextension.so|c2027b4778cd820e3eccc29a42e7256762c24a5b
 vendor/lib/hw/vulkan.sdm660.so|704d421e098d832de8049315df8951202a8bcf26
 vendor/lib64/hw/vulkan.sdm660.so|5616c7938c8d80fd1f1ca4c80ea20b1497246c3f
 
-# Listen - from LA.UM.8.2.r1-06700-sdm660.0
-vendor/lib/hw/sound_trigger.primary.sdm660.so|336e4af06f2ddd74bf318bae8ce21388c7f90ac6
-vendor/lib/libadpcmdec.so|8c72aa1812bfa749f266020366894c8a3873d99c
-vendor/lib/libgcs-calwrapper.so|cbf3dbe43161b68adfaf48a9da4e7fedd7b02f5a
-vendor/lib/libgcs-ipc.so|215c2dded9ccd0fc015db2d7008824e332886d2b
-vendor/lib/libgcs-osal.so|5f0c6798dbeb9c806706b0cf217440662452364c
-vendor/lib/libgcs.so|ccb6ac9c27021cf4f2ec09994742c38b700c2583
-vendor/lib/libsmwrapper.so|7f7bd7045ced84928ec46b457ec5f21d5228ea3a
+# Listen - from LA.UM.9.2.r1-03500-SDMxx0.0
+vendor/lib/hw/sound_trigger.primary.sdm660.so|f9fc90dd0ffaff3df5873d9536bb7a2b7d60450c
+vendor/lib/libadpcmdec.so|b3ec2cc197b682aa6ae7e1da9c8f25cc1aa75750
+vendor/lib/libgcs-calwrapper.so|7bbad068766b970e3fa576f372ed36b87e6d7898
+vendor/lib/libgcs-ipc.so|dd9c0e6e25b4b1c8a80cec843a7eec990111447f
+vendor/lib/libgcs-osal.so|413c0b9b767d8aa1da477f89b162d5b13604e0cf
+vendor/lib/libgcs.so|16dd5d2893062e717921674f92338d12a6a823fc
+vendor/lib/libsmwrapper.so|0fbf611c9a597f7c70bfd2363dfc7f465d1dafd5
 
 # Media - from lavender
 lib/libFileMux.so|79661e6dffc90234ad446641264fd0fa1a3fe6ab
