@@ -16,7 +16,7 @@ TARGET_SCREEN_WIDTH := 1080
 # Overlays
 DEVICE_PACKAGE_OVERLAYS += \
     $(LOCAL_PATH)/overlay \
-    $(LOCAL_PATH)/overlay-weeb
+    $(LOCAL_PATH)/overlay-fuse
 
 # Display Device Config
 PRODUCT_COPY_FILES += \
@@ -384,7 +384,7 @@ PRODUCT_PACKAGES += \
 
 # AOT Preload
 PRODUCT_DEXPREOPT_SPEED_APPS += \
-    WeebSystemUI
+    SystemUI
 
 # Seccomp policy
 PRODUCT_COPY_FILES += \
